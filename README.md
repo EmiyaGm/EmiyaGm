@@ -23,6 +23,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-%232c3e50?logo=rust&style=flat-square)
 <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-%232c3e50?logo=tauri&style=flat-square" />
 <img alt="Wechat" src="https://img.shields.io/badge/-Wechat-%232c3e50?logo=wechat&style=flat-square" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-%232c3e50?logo=electron&style=flat-square" />
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
