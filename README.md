@@ -33,7 +33,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-<p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=EmiyaGm&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmiyaGm">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmiyaGm)](https://git.io/streak-stats)
