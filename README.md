@@ -33,6 +33,6 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EmiyaGm)](https://git.io/streak-stats)
+[![GitHub Streak](https://gh-trophy.cdnsoft.net/?username=EmiyaGm&theme=light)](https://git.io/streak-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmiyaGm" alt="EmiyaGm" /></a> </p>
