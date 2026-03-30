@@ -30,9 +30,10 @@
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
-
+https://gh-trophy.cdnsoft.net/?username=EmiyaGm&theme=light
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![GitHub Streak](https://gh-trophy.cdnsoft.net/?username=EmiyaGm&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EmiyaGm)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EmiyaGm" alt="EmiyaGm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net/?username=EmiyaGm&theme=light
+" alt="EmiyaGm" /></a> </p>
